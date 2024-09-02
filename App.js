@@ -6,13 +6,13 @@ SplashScreen.preventAutoHideAsync();
 
 export default function App() {
 
-  const onLoadRootView = useCallback(async () => {   
+  const onLoadRootView = useCallback(async () => {
     try {
       await SplashScreen.hideAsync();
     } catch (e) {
       console.warn(e);
     }
-  })
+  }, []);
 
   return (
     <WebView
