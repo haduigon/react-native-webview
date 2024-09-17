@@ -33,8 +33,7 @@ Feel free to suggest any improvements.
 <img width="1792" alt="Screenshot_FB_CHAT4" src="https://github.com/haduigon/react-fb-chat-landiing/assets/20277989/cdcfb9c0-db01-4ff2-a630-8dad0c8589e5">
 <img width="1792" alt="Screenshot_FB_CHAT3" src="https://github.com/haduigon/react-fb-chat-landiing/assets/20277989/7df7f200-bf55-40fd-aaf6-6a5d05c9ae65">
 
-  <img width="1792" alt="Screenshot_FB_![Frame 1146 (1)](https://github.com/user-attachments/assets/6cf64ea7-17bf-4a50-a43c-8844e65dfb6e)
-CHAT2" src="https://github.com/haduigon/react-fb-chat-landiing/assets/20277989/7be020da-ddf6-4703-8b42-63f4ec9138d3">
+  <img width="1792" alt="Screenshot_React_Native" src="https://github.com/user-attachments/assets/6cf64ea7-17bf-4a50-a43c-8844e65dfb6e">
 
   
   
