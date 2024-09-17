@@ -35,7 +35,7 @@ Feel free to suggest any improvements.
 
 # Technologies list:
 
-[![React Native](https://img.shields.io/badge/React-Native-0.74.5-green)](https://reactnative.dev/)
+[![React Native](https://img.shields.io/badge/React%Native-0.74.5-green)](https://reactnative.dev/)
 
 [![Expo](https://img.shields.io/badge/Expo-51.0.31-green)](https://expo.dev/)
 
