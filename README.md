@@ -56,9 +56,9 @@ Feel free to suggest any improvements.
 
 To launch it on your PC, follow the instructions:
 
-https://reactnative.dev/docs/environment-setup
+# [Link 1](https://reactnative.dev/docs/environment-setup) 
 
-https://reactnative.dev/docs/running-on-device
+# [Link 2](https://reactnative.dev/docs/running-on-device)
 
 or just download it from the stores.
 
