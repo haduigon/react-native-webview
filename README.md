@@ -65,4 +65,4 @@ or just download it from the stores.
 
 # Reflection
 
-It took 23 uploaded builds to create App for both stores. I had thought it would be easy but it wasn't %)  
+It took 23 uploaded builds to create App for both stores. I had thought it would be easy but it wasn't :D
