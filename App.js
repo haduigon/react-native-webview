@@ -31,13 +31,6 @@ export default function App() {
             "https://pautina.ua",
             "https://stat.pautina.ua",
           ]}
-          // injectedJavaScript={`
-          //   var meta = document.createElement('meta'); 
-          //   meta.name = "viewport"; 
-          //   meta.content = "width=device-width, initial-scale=1.0"; 
-          //   document.getElementsByTagName('head')[0].appendChild(meta);
-          // `}
-          // scalesPageToFit={false}
         />
       </SafeAreaView>
     </SafeAreaProvider>
