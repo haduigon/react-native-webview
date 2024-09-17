@@ -39,7 +39,7 @@ Feel free to suggest any improvements.
 
 [![React Native](https://img.shields.io/badge/React%20Native-0.74.5-purple)](https://reactnative.dev/)
 
-[![Expo](https://img.shields.io/badge/Expo-51.0.31-grey)](https://expo.dev/)
+[![Expo](https://img.shields.io/badge/Expo-51.0.31-blue)](https://expo.dev/)
 
 
 # React Native WebView features:
