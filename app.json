@@ -3,7 +3,7 @@
     "name": "myPautina",
     "displayName": "myPautina",
     "slug": "myPautinaUA",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "orientation": "portrait",
     "icon": "./assets/newLogo.png",
     "userInterfaceStyle": "light",
@@ -13,7 +13,7 @@
       "backgroundColor": "#000000"
     },
     "ios": {
-      "supportsTablet": true,
+      "supportsTablet": false,
       "bundleIdentifier": "ua.myPautina"
     },
     "android": {
@@ -22,7 +22,7 @@
         "backgroundColor": "#000000"
       },
       "package": "com.haduigon.myPautinaUA",
-      "versionCode": 22
+      "versionCode": 23
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -32,7 +32,7 @@
         "projectId": "f3f57f3c-30ff-4149-a829-8adf26f8dfeb"
       }
     },
-    "runtimeVersion": "1.2.2",
+    "runtimeVersion": "1.2.3",
     "updates": {
       "url": "https://u.expo.dev/f3f57f3c-30ff-4149-a829-8adf26f8dfeb"
     },
