@@ -49,7 +49,7 @@ Feel free to suggest any improvements.
 
 - As far as mobile web site uses url rewriting, Android manifest and Info.plist are properly configured. Also network security config is added.
 
--For IOS it is used a SafeAreaView
+- For IOS it is used a SafeAreaView
 
 - What is not done. I still have problems with iPad, it works badly, I`l be highly gratefull for any advice.
 
