@@ -30,7 +30,9 @@ Feel free to suggest any improvements.
 # _Screenshots are bellow:_
 
 <details>
-
+![Frame 1149 (1)](https://github.com/user-attachments/assets/d9631db9-127d-4616-bc97-fb6f764b9cfa)
+![Frame 1146 (1)](https://github.com/user-attachments/assets/f519ce9e-41b8-40d5-958e-976b43144174)
+![Frame 1151](https://github.com/user-attachments/assets/8e3795a4-7dee-4851-b245-062ba8086091)
 </details>
 
 # Technologies list:
