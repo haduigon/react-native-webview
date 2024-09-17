@@ -30,15 +30,8 @@ Feel free to suggest any improvements.
 # _Screenshots are bellow:_
 
 <details>
-<img width="1792" alt="Screenshot_FB_CHAT4" src="https://github.com/haduigon/react-fb-chat-landiing/assets/20277989/cdcfb9c0-db01-4ff2-a630-8dad0c8589e5">
-<img width="1792" alt="Screenshot_FB_CHAT3" src="https://github.com/haduigon/react-fb-chat-landiing/assets/20277989/7df7f200-bf55-40fd-aaf6-6a5d05c9ae65">
-
-  <img width="1792" alt="Screenshot_React_Native" src="https://github.com/user-attachments/assets/6cf64ea7-17bf-4a50-a43c-8844e65dfb6e">
-
-  
-  
-  <img width="1792" alt="Screenshot_![Frame 1149 (1)](https://github.com/user-attachments/assets/f2a61311-7264-4e05-b8dc-c48f78084f47)
-FB_CHAT" src="https://github.com/haduigon/react-fb-chat-landiing/assets/20277989/7fffaf04-17b9-45a1-bb96-3dad326bb8aa">
+<img width="1792" alt="Screenshot_React_Native" src="https://github.com/user-attachments/assets/6cf64ea7-17bf-4a50-a43c-8844e65dfb6e">  
+<img width="1792" alt="Screenshot_React_Native2" src="https://github.com/user-attachments/assets/f2a61311-7264-4e05-b8dc-c48f78084f47">
 </details>
 
 # Technologies list:
