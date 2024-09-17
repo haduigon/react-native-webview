@@ -8,7 +8,7 @@ It is simple commercial React Native webview App, published in both stores Play 
 
 # [Demolink IOS](https://apps.apple.com/us/app/mypautina/id6670407952) 
 
-Test accaunt to get inside: 
+Test account to get inside: 
 
 username: 909893
 password: MJUG5WL
